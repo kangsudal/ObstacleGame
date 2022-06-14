@@ -23,7 +23,7 @@ public class Dropper : MonoBehaviour
     {
         if(Time.time>timeToWait)
         {
-            Debug.Log("3 seconds has elapsed");
+            // Debug.Log("3 seconds has elapsed");
        
             renderer.enabled = true;
             rigidbody.useGravity = true;

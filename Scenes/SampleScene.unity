@@ -1320,7 +1320,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7135767201888436718, guid: 35ee1533a5e13ff40a96457de2e8e279, type: 3}
       propertyPath: yAngle
-      value: 0.7
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7135767201888436719, guid: 35ee1533a5e13ff40a96457de2e8e279, type: 3}
       propertyPath: m_Name
